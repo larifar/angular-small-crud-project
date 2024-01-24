@@ -4,7 +4,7 @@
 CRUD feito no Angular 14. Permite criar, editar, buscar e excluir pequenos pensamentos, ideias, trechos. 
 
 
-**Status do Projeto: Finalizado**
+**Status do Projeto: Em desenvolvimento**
 
 ## Stack utilizada
 
