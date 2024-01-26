@@ -4,13 +4,22 @@
       "id": "80e4",
       "conteudo": "oal",
       "autoria": "aaa",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": "b963",
       "conteudo": "pensamento 1",
       "autoria": "aef",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "pensamento 3",
+      "autoria": "eueu",
+      "modelo": "modelo3",
+      "id": "fqLD2ox",
+      "favorito": true
     }
   ]
 }
