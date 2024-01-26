@@ -18,7 +18,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 
 - [Node.js](https://nodejs.org/) - O ambiente de execução JavaScript.
 - [Angular 14 e Angular CLI](https://angular.io/) - Um framework para construir aplicativos web.
-- [Json-server](https://github.com/typicode/json-server) - Uma biblioteca para criar rapidamente uma API REST fake a partir de um arquivo JSON.
+- [Json-server](https://github.com/typicode/json-server) - Uma biblioteca para criar rapidamente uma API REST fake a partir de um arquivo JSON. Utilizei a versão 0.17.0
 ## Demonstração
 
 - Página do mural vazio:
