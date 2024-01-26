@@ -1,7 +1,7 @@
 
 # Memoteca
 
-CRUD feito no Angular 14. Permite criar, editar, buscar e excluir pequenos pensamentos, ideias, trechos. 
+CRUD feito no Angular 14. Permite criar, editar, buscar e excluir pequenos pensamentos, ideias, trechos. Permite pesquisar palavras para facilitar busca por pensamentos. Permite favoritar pensamentos. Tem filtro de pensamentos favoritos e mural normal.
 
 
 **Status do Projeto: Em desenvolvimento**
@@ -10,7 +10,7 @@ CRUD feito no Angular 14. Permite criar, editar, buscar e excluir pequenos pensa
 
 **Front-end:** Angular 14
 
-**Back-end:** Json Server
+**Back-end:** Json Server 0.17.0
 
 ## Pré-Requisitos
 
@@ -28,7 +28,14 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 ![image](https://github.com/larifar/angular-small-crud-project/assets/114440036/775e2621-cde4-4a1e-83ce-4fd6c7fae127)
 
 - Página do mural com pensamentos:
-![image](https://github.com/larifar/angular-small-crud-project/assets/114440036/ee3eb7ed-53dc-442a-ba11-bc2e778d56b8)
+![image](https://github.com/larifar/angular-small-crud-project/assets/114440036/bf9b3ecc-274d-451d-8953-7bd029e4c019)
+
+- Página dos favoritos:
+![image](https://github.com/larifar/angular-small-crud-project/assets/114440036/649cd2f7-bf70-489b-8ee3-0dc15d42bbbe)
+
+- Página de buscar uma palavra:
+![image](https://github.com/larifar/angular-small-crud-project/assets/114440036/28b21fa7-4e33-4218-a983-f41867e7c76f)
+<p>Busca é dinâmica, feita enquanto usuário digita</p>
 
 
 ## Rodando localmente
